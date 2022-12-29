@@ -10,15 +10,3 @@ This project was a guided project from Coursera https://www.coursera.org/project
 ![dockerhub1](https://user-images.githubusercontent.com/36702039/210021715-59444413-5e16-4bdf-b2bf-a93e583badaa.png)
 
 
-# Simple dockerized Node + Mongo blog app
-
-## Quick Start
-
-```bash
-# Run in Docker
-docker-compose up
-# 'docker-compose up -d' to run in background
-
-# Bring down
-docker-compose down
-
